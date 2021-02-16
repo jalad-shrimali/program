@@ -26,7 +26,7 @@ int main()
 //         maxSum=max(maxSum, sum);
 //     }
 // }
-//Kandale's Algorithm most optimized sol for this problem with complexity O(n)
+//Kadane's Algorithm most optimized sol for this problem with complexity O(n)
 int curSum=0;
 for(int i=0;i<n;i++)
 {
